@@ -11,8 +11,8 @@ const Home = () => {
   return (
     <div className="homePage">
       <HeroBanner />
-      <Upcomming />
-      <NowPlaying />
+      {/* <Upcomming /> */}
+      {/* <NowPlaying /> */}
       <Trending />
       <Popular />
       <TopReted />
